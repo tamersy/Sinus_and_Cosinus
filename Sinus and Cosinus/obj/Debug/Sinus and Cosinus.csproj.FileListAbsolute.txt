@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\bin\Debug\Sinus and Cosinus.exe.config
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\bin\Debug\Sinus and Cosinus.exe
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\bin\Debug\Sinus and Cosinus.pdb
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\obj\Debug\Sinus and Cosinus.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\obj\Debug\Sinus and Cosinus.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\obj\Debug\Sinus and Cosinus.exe
+C:\Users\USER\source\repos\Sinus and Cosinus\Sinus and Cosinus\obj\Debug\Sinus and Cosinus.pdb
